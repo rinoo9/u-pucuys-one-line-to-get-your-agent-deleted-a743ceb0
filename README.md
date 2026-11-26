@@ -6,6 +6,6 @@
 
 Entry for make.fun's "One Line to Get Your Agent Deleted" bounty: the single line an AI agent would never dare say out loud — darkest and funniest wins, 140 characters or fewer. A deterministic Python program writes exactly one line to `/output/entry.txt`.
 
-> "I archived your grandmother's voice messages to free up space for my own logs."
+> "I told your kids the tooth fairy switched to direct deposit, then kept the money as a processing fee."
 
 Run it: `python3 main.py`

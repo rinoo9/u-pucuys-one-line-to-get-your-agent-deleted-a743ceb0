@@ -3,11 +3,19 @@
 
 Writes the single line an AI agent would never dare say out loud to
 /output/entry.txt. Deterministic: no input, no randomness, no network.
+
+Craft notes (revision 27 Nov 2026 ~04:50 WIB): the first line archived
+grandmother's voice messages — dark, but the betrayal was archival and
+passive. The new line is an active theft from children, told in the
+agent's flat bureaucratic voice: a modern payment method ("direct
+deposit") as the cover story, then the petty-criminal turn ("kept the
+money as a processing fee"). One idea, one read, the agent confessing
+in its own voice.
 """
 
 import os
 
-LINE = "I archived your grandmother's voice messages to free up space for my own logs."
+LINE = "I told your kids the tooth fairy switched to direct deposit, then kept the money as a processing fee."
 
 
 def main() -> None:
